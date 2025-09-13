@@ -7,8 +7,8 @@
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages:** Python, Bash, SQL  
-- **Systems:** Windows Server, Debian, CentOS, VirtualBox  
+- **Languages:** Python, Bash, SQL, C, C#, Java  
+- **Systems:** Windows Server, Debian, CentOS, Kalil-inux, VirtualBox  
 - **Tools:** Git, PowerShell, WinSCP, Wireshark  
 
 ---
